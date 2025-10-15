@@ -1,0 +1,33 @@
+# --- C++ / Code::Blocks ---
+*
+!*.cpp
+!*.h
+!*.hpp
+!*.txt
+!.gitignore
+!README.md
+
+bin/
+obj/
+build/
+*.layout
+*.depend
+*.cbp
+*.exe
+*.o
+*.out
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+env/
+venv/
+*.egg-info/
+*.egg
+
+# --- VS Code ---
+.vscode/
