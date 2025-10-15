@@ -1,5 +1,8 @@
 # --- C++ / Code::Blocks ---
+
 *
+# No ignorar carpetas
+!*/
 !*.cpp
 !*.h
 !*.hpp
