@@ -31,6 +31,7 @@ env/
 venv/
 *.egg-info/
 *.egg
+!*.py
 
 # --- VS Code ---
 .vscode/
