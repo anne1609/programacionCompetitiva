@@ -1,4 +1,5 @@
 #include <iostream>
+//Ejercicio divisibilidad https://jv.umsa.bo/problem.php?id=1091 
 
 using namespace std;
 
